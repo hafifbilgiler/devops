@@ -2,3 +2,4 @@
 
 TO INSTALLATION JUST APPLY THE YAML FILE AND  SPECIY THE YOUR ASMIN USER ALSO YOU NEED THE CREATE PVC TO LIB FILES FOR GRAFANA.
 
+Also this repository has a json file to monitor the gpu's on openshift cluster.
